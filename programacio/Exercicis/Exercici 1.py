@@ -7,4 +7,5 @@ for i in range(10):
     a = a+1
 arxiu = open("taula-"+numero+".txt", "w")
 arxiu.write(text)
+
 arxiu.close()
