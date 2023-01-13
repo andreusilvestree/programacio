@@ -1,3 +1,4 @@
+#test
 import random
 a = random.randint(0,1000)
 Arxiu = open("arxiu.txt", "w")
