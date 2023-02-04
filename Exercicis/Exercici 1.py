@@ -7,4 +7,3 @@ for i in range(10):
     a = a+1
 with open("taula-"+numero+".txt", "w") as arxiu:
     arxiu.write(text)
-    #tetas
